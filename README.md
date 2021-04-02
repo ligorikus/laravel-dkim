@@ -1,3 +1,5 @@
+# It's a fork of vitalybaev/laravel-dkim
+
 # Laravel DKIM
 Package, that allows sign emails with DKIM.
 
